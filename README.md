@@ -1,5 +1,5 @@
 Author - Vidit Agarwal
-# Javasript-learning-2024
+# Javascript-learning-2024
 This repo holds my projects which i made during learning javascript from chai or code channel.
 
 project - 1 
