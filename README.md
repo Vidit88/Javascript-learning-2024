@@ -11,3 +11,7 @@ Project - 2 (BMI Calculator)
 
 This Project is based on the concept of input handeling in javascript using DOM manupulation.
 In this project we take user's height and Weight and return them the Calculated Bmi.
+
+Project - 3 (Digital Clock)
+
+Made a Digital clock it is a very simple project the main thing which it showcase is the setinterval feature of JS.
