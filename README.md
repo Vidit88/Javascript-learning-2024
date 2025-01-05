@@ -21,3 +21,8 @@ Project - 4 (Guess the number Game)
 In this project i made a guess the number game in which we have 10 chances to guess a number.
 Tip - try to use the concept of Binary Search in this game to win. 
 This project is not very complex or hard but it is lengthy.
+
+
+Project - 5 (Random Joke Generator)
+
+In this project i made a random joke generator using api call method.
